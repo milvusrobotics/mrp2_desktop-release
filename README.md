@@ -1,2 +1,0 @@
-# mrp2_desktop
-

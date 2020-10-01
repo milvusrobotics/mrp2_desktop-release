@@ -1,0 +1,16 @@
+ros-melodic-mrp2-viz (0.2.2-2stretch) stretch; urgency=high
+
+  * Updated package informations
+  * Contributors: Akif
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Wed, 09 Mar 2016 22:00:00 -0000
+
+ros-melodic-mrp2-viz (0.2.1-2stretch) stretch; urgency=high
+
+  * Package information update
+  * RViz configs added
+  * Contributors: Akif
+
+ -- Akif Hacinecipoglu <akifhno@gmail.com>  Sun, 10 Jan 2016 22:00:00 -0000
+
+
